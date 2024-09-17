@@ -1,1 +1,2 @@
-endu endman
+username password
+alphagoyt arn1ab001
